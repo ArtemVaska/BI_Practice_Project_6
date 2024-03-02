@@ -37,8 +37,8 @@ heatmap.2(
     trace = "none",
     margins = c(14, 14),
     lhei = c(1, 5),
-    cexRow = 0.2,  # Adjust the font size for rows
-    cexCol = 0.6   # Adjust the font size for columns
+    cexRow = 0.5,  # Adjust the font size for rows
+    cexCol = 0.8   # Adjust the font size for columns
 )
 
 invisible(dev.off())
